@@ -1,4 +1,0 @@
-#importing the dataset
-dataset = pd.read.csv('Social_Network_Ads')
-x = dataset.iloc[]
-y = dataset.iloc[]
